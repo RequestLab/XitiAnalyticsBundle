@@ -1,6 +1,6 @@
 # README
 
-[![Build Status](https://travis-ci.org/RequestLab/RequestLabXitiAnalyticsBundle.svg?branch=master)](http://travis-ci.org/RequestLab/RequestLabXitiAnalyticsBundle)
+[![Build Status](https://travis-ci.org/RequestLab/XitiAnalyticsBundle.svg?branch=master)](https://travis-ci.org/RequestLab/XitiAnalyticsBundle)
 
 The RequestLab Xiti Analytics Bundle provides a way to use the AT Internet Analytics Data Query API as Symfony 2 Bundle. It's inspired by the Wid'op Google Analytics library
 
