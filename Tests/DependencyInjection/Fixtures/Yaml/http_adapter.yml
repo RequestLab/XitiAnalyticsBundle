@@ -1,0 +1,4 @@
+request_lab_xiti_analytics:
+    login: "Login"
+    password: "Password"
+    http_adapter: "foo"

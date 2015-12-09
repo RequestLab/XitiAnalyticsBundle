@@ -1,0 +1,3 @@
+request_lab_xiti_analytics:
+    password: "password"
+    http_adapter: "widop_http_adapter.curl"

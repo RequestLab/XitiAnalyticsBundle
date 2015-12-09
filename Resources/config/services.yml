@@ -1,0 +1,15 @@
+parameters:
+    request_lab_xiti_analytics.class: RequestLab\XitiAnalytics\Service
+    request_lab_xiti_analytics.query.class: RequestLab\XitiAnalytics\Query
+    request_lab_xiti_analytics.client.class: RequestLab\XitiAnalytics\Client
+
+services:
+    request_lab_xiti_analytics:
+        class: %request_lab_xiti_analytics.class%
+        arguments: ["@request_lab_xiti_analytics.client"]
+
+    request_lab_xiti_analytics.client:
+        class: %request_lab_xiti_analytics.client.class%
+
+    request_lab_xiti_analytics.query:
+        class: %request_lab_xiti_analytics.query.class%
