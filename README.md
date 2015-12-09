@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/RequestLab/RequestLabXitiAnalyticsBundle.svg?branch=master)](http://travis-ci.org/RequestLab/RequestLabXitiAnalyticsBundle)
 
-The RequestLab Xiti Analytics Bnudle provides a way to use the AT Internet Analytics Data Query API as Symfony 2 Bundle. It's inspired by the Wid'op Google Analytics library
+The RequestLab Xiti Analytics Bundle provides a way to use the AT Internet Analytics Data Query API as Symfony 2 Bundle. It's inspired by the Wid'op Google Analytics library
 
 ## Documentation
 
@@ -15,6 +15,6 @@ We love contributors! The bundle is open source, if you'd like to contribute, fe
 
 ## License
 
-The Wid'op Google Analytics Bundle is under the MIT license. For the full copyright and license information, please
+The RequestLab Xiti Analytics Bundle is under the MIT license. For the full copyright and license information, please
 read the [LICENSE](https://github.com/RequestLab/RequestLabXitiAnalyticsBundle/blob/master/LICENSE) file that was distributed
 with this source code.
