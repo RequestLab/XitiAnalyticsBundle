@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Widop\GoogleAnalyticsBundle\Tests;
+namespace RequestLab\XitiAnalyticsBundle\Tests;
 
 use RequestLab\XitiAnalyticsBundle\RequestLabXitiAnalyticsBundle;
 
