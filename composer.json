@@ -4,7 +4,7 @@
     "keywords": [ "atinternet", "analytics", "server", "api" ],
     "type": "symfony-bundle",
     "require": {
-        "symfony/framework-bundle": "2.*",
+        "symfony/framework-bundle": "~2.3|~3.0",
         "requestlab/xiti-analytics": "1.*",
         "widop/http-adapter-bundle": "1.*"
     },
